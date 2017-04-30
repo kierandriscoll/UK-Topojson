@@ -6,5 +6,11 @@ Contains the following properties:
   "bng_n" : British National Northings Eastings e.g. 155126
   "long" : Longitude e.g. -0.7841
   "lat" : Latitude e.g. 51.28895187
-  "st_areashape" : e.g. 53002000.04235682
-  "st_lengthshape" : 
+
+
+Wards Dec16
+Contains the following properties:
+  "wd15cd" : The ONS ward code e.g. "E05000028"
+  "wd15nm" : The ward name e.g. "Becontree"
+  "lad15cd" : The ONS Local Authority code of which the ward belongs to e.g. "E09000002"
+  "lad15nm" : The Local Authority name of which the ward belongs to e.g. "Barking and Dagenham"
