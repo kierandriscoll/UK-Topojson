@@ -1,0 +1,10 @@
+Westminster Constituencies Dec16
+Contains the following properties:
+  "pcon16cd" : The ONS constituency code e.g. "E14000530"
+  "pcon16nm" : The constituency name e.g. "Aldershot"
+  "bng_e" : British National Eastings e.g. "484884"
+  "bng_n" : British National Northings Eastings e.g. 155126
+  "long" : Longitude e.g. -0.7841
+  "lat" : Latitude e.g. 51.28895187
+  "st_areashape" : e.g. 53002000.04235682
+  "st_lengthshape" : 
