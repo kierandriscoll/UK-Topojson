@@ -1,0 +1,11 @@
+Lower Super Output Areas (LSOA) Dec11
+Contains the following properties:
+  "lsoa11cd" : The ONS LSOA code e.g. "E01008175"
+  "lsoa11nm" : The LSOA name e.g. "Gateshead 026D"
+  "lsoa11nmw" : The previous LSOA name e.g. "Gateshead 026D"
+
+Middle Super Output Areas (MSOA) Dec11
+Contains the following properties:
+  "msoa11cd" : The ONS MSOA code e.g. "E02000240"
+  "msoa11nm" : The MSOA name e.g. "Ealing 003"
+  "msoa11nmw" : The previous MSOA name e.g. "Ealing 003"
