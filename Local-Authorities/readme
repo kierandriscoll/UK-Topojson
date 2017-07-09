@@ -1,7 +1,10 @@
 Local Authorites Dec16
 Contains the following properties:
+All areas:
   "lad16cd" : The ONS Local Authority code e.g. "E06000017"
   "lad16nm" : The Local Authority name e.g. "Rutland"
+  
+GB only:
   "bng_e" : British National Eastings e.g. 492992
   "bng_n" : British National Northings e.g. 308655
   "long" : Longitude e.g. -0.62629998
