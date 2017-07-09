@@ -3,7 +3,8 @@
 Provides browseable TopoJson data for various types of boundaries in UK/GB.
 
 GeoJson files extracted from the Geojson API provided at:
-http://geoportal.statistics.gov.uk/
+http://geoportal.statistics.gov.uk/ (for Breat Britain)
+http://osni-spatial-ni.opendata.arcgis.com (for Northern Ireland)
 
 These were then converted into Topojson using:
 http://mapshaper.org/
