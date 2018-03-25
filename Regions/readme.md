@@ -1,6 +1,7 @@
 Regions created from NUTS Level 1 boundaries with codes changed to ONSs region and country codes.
 
 Includes the properties:
+
 nuts118cd	: S92000003
 nuts118nm	: Scotland
 bng_e	: 277746
